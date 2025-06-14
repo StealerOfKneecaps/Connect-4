@@ -20,6 +20,7 @@ yelWin, redWin, draw - keeps track of win condition. Any of them becoming true m
 
 
 
+
 Logic of our code?
 
 In the beginning of the document, we set up all the possible variables we could need - following this, a replay boolean and 3 cases the user could choose from for gamemode options. 
