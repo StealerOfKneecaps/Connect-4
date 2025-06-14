@@ -1,0 +1,30 @@
+June 6th, 2025 
+
+Dividing up work
+Started to plan - put together ideas for how it works
+Started work on putting together a “frame” - what to build off of for the later parts of the assignment.
+
+
+June 9, 2025 
+
+Developed the board by constructing columns and adding numbers on top to differentiate each column. 
+Utilized a switch case for the user to input red or yellow into the board. 
+Initialized a variable that can track the number of inputs in every column to verify that there is not more than the maximum amount. 
+
+
+June 10, 2025
+
+Embarked on the player vs player mode by establishing that when there are four of the same colour in a column, then that colour wins. We achieved this by incrementing the counter every time a red or yellow value was detected by the computer and resetting it when the opposing colour was identified. 
+Employing columns, we started to develop rows because four in a row is an additional winning possibility. 
+Implementing the same method as the counter, we determined when users would win in rows. 
+
+
+June 11, 2025
+
+Concluded the player vs player mode by finalizing the possibility of four in a row diagonally. This was accomplished by using a 1D Array list with all rows in a single row and checking the indexes in increments of eight, e.g., index 0, index 7, index 15, and index 23. 
+
+
+June 12, 2025 and June 13, 2025
+
+As a result of the foundation of our assignment being completed, we parted ways and focused on the two alternative options of play. Player vs Computer and Player vs Computer(never loses). We executed similar methods to ensure the code for both options ran efficiently and effectively. 
+Finally, we concluded any additional work, including notes, work log, and ensuring the absence of errors in our code. 
